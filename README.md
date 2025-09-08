@@ -26,5 +26,5 @@ Bar Chart (Sales by Mobile Model) → Compares top-performing mobile models by t
 Table (Sales by Brand) → Provides detailed breakdown of total sales and quantities by brand.
 Line Chart (Sales by Day Name) → Tracks sales patterns across different days of the week.
 
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/vaibhavi-pednekar/Mobile-Sales-Dashboard/blob/main/Report%20Of%20Sales%20Dasboard.png)
 
