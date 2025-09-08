@@ -20,8 +20,8 @@ Features:
 🎯 Goal of the Dashboard
 The goal of this dashboard is to provide a comprehensive view of mobile sales performance across different dimensions such as city, brand, model, time, and payment methods. It helps stakeholders track KPIs like total sales, transactions, quantity, and average price while enabling interactive exploration of trends, customer behavior, and payment patterns.
 
-📊 Key Visuals in the Dashboard
-KPIs (Cards) → Display Total Sales, Total Quantity, Total Transactions, and Average Price at a glance.
+📊 Key Visuals in the Dashboard 
+KPIs (Cards) → Display Total Sales, Total Quantity, Total Transactions, and Average Price at a glance. 
 Map (Total Sales by City) → Shows sales distribution geographically across different cities.
 Line Chart (Total Quantity by Month) → Highlights sales trends and seasonality over months.
 Bar Chart (Customer Ratings) → Breaks down customer satisfaction based on rating levels.
