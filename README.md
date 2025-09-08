@@ -3,9 +3,13 @@
 
 Description:
 "An interactive Power BI dashboard analyzing mobile sales performance, trends, and insights with dynamic filters and visualizations.Data-driven mobile sales dashboard designed to track performance, identify trends, and support decision-making.Interactive visualization of mobile sales data using Power BI, enabling users to explore KPIs and insights effortlessly.A comprehensive dashboard showcasing mobile sales analysis with interactive charts, slicers, and insights."
+
 💻 Power BI Desktop → for building the interactive dashboard and visualizations
+
 🔄 Power Query → for data cleaning, shaping, and transformation
+
 📊 DAX (Data Analysis Expressions) → for creating measures, KPIs, and advanced calculations
+
 📂 File Formats(.pbix) → Interactive Power BI Dashboard file
 
 📂 Data Source
