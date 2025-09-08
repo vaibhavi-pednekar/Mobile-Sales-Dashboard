@@ -1,5 +1,6 @@
 # Mobile-Sales-Dashboard
 📱 Interactive Mobile Sales Dashboard | Power BI
+
 Description:
 "An interactive Power BI dashboard analyzing mobile sales performance, trends, and insights with dynamic filters and visualizations.Data-driven mobile sales dashboard designed to track performance, identify trends, and support decision-making.Interactive visualization of mobile sales data using Power BI, enabling users to explore KPIs and insights effortlessly.A comprehensive dashboard showcasing mobile sales analysis with interactive charts, slicers, and insights."
 💻 Power BI Desktop → for building the interactive dashboard and visualizations
@@ -22,7 +23,7 @@ Line Chart (Total Quantity by Month) → Highlights sales trends and seasonality
 Bar Chart (Customer Ratings) → Breaks down customer satisfaction based on rating levels.
 Pie Chart (Transactions by Payment Method) → Shows the share of UPI, Debit Card, and Credit Card payments.
 Bar Chart (Sales by Mobile Model) → Compares top-performing mobile models by total sales.
-
 Table (Sales by Brand) → Provides detailed breakdown of total sales and quantities by brand.
-
 Line Chart (Sales by Day Name) → Tracks sales patterns across different days of the week.
+
+[Dashboard Preview] (https://github.com/vaibhavi-pednekar/Mobile-Sales-Dashboard/blob/main/Report%20Of%20Sales%20Dasboard.png)
